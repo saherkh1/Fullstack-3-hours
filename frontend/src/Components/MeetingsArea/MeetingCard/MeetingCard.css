@@ -1,0 +1,13 @@
+.MeetingCard {
+	width: 250px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(chocolate,chocolate,white );
+    color: white;
+    display: inline-block;
+    overflow: auto;
+    margin: 20px;
+    padding: 10px;
+    font-size: smaller;
+}
